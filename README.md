@@ -1,6 +1,10 @@
 # ColorsGenerator
 
-## How to use
+## Requirement
+- docker
+- docker-compose
+
+## Usage
 
 ```
 docker-compose up
